@@ -1,0 +1,46 @@
+body {
+    background-color: purple;
+}
+
+.kalkulator {
+    width: 400px;
+    background: pink;
+    box-shadow: 0 px 10px 20px 0px black;
+    border-radius: 40px;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+}
+
+.judul {
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    font-family: verdana;
+}
+
+.tombol {
+    background: #EC5159;
+    border-top: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 15pt;
+    border-bottom: 4px solid #BF3D3D;
+    width: 167px;
+}
+
+.bil {
+    width: 370px;
+    border: none;
+    width: 215px;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.top {
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
