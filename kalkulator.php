@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
     <title>APLIKASI KALKULATOR</title>
 </head>
 <body>
@@ -31,12 +32,12 @@
         <p>PASYA AWAN RIZKY SAPUTRO</p>
         <p>Kelas : XII RPL 1</p>
     </div>
-    <div class="kal">
-         <h2 class="j">KALKULATOR</h2>
+    <div class="kalkulator">
+         <h2 class="judul">KALKULATOR</h2>
          <form method="post" action="kalkulator.php">
             <input type="text" name="bil1" class="bil" autocomplete="off" placeholder="Masukan Bilangan Pertama">
             <input type="text" name="bil2" class="bil" autocomplete="off" placeholder="Masukan Bilangan Kedua">
-            <select class="slt" name="operasi">
+            <select class="y" name="operasi">
                 <option value="tambah">+</option>
                 <option value="kurang">-</option>
                 <option value="kali">x</option>
